@@ -4,4 +4,4 @@
 
 A simple calculator built using HTML, CSS and JavaScript.
 
-Para iniciar o projeto, basta abrir o arquivo `index.html` em seu navegador preferido.
+To start the project, just open the file `index.html` in your preferred browser.
