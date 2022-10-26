@@ -7,8 +7,9 @@ var input = document.getElementById('input'),
   clear = document.getElementById('clear'), 
   resultDisplayed = false; 
 
-  
+
 for (var i = 0; i < number.length; i++) {
+  
   number[i].addEventListener("click", function(e) {
 
     
